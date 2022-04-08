@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('rcaloras.com:server');
+var debug = require('debug')('rcaloras-2022:server');
 var http = require('http');
 
 /**
